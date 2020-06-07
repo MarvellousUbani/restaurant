@@ -13,7 +13,7 @@
 ```
    git clone https://github.com/MarvellousUbani/restaurant
    cd restaurant
-   open index.html file
+   open dist/index.html file
 
 ```
 
