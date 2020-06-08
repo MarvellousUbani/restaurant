@@ -13,9 +13,12 @@
 ```
    git clone https://github.com/MarvellousUbani/restaurant
    cd restaurant
-   open index.html file
+   open dist/index.html file
 
 ```
+
+### Live Link
+[Click Here](https://rawcdn.githack.com/MarvellousUbani/restaurant/a99bd8490d07dd9eed740bc3b149c78b5ccab77d/dist/index.html)
 
 ## Author:
 
